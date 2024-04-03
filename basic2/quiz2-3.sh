@@ -1,0 +1,3 @@
+cd /etc
+pwd
+ls 
